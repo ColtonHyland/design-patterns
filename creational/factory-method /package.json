@@ -1,0 +1,17 @@
+{
+  "name": "factory-method",
+  "version": "1.0.0",
+  "description": "Factory Method Pattern Implementation",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc -w"
+  },
+  "keywords": ["design-patterns", "factory-method", "typescript"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
